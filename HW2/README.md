@@ -3,13 +3,11 @@ Assigned Reading:
 The paper titled 'What is the Question' By Jeff Leek and Roger Peng was a nice read to understand the common mistakes in data science and data analysis in general.
 From the flowchart, I learnt that the data analysis flow can be misunderstood if the question being addressed is mistaken. Depending on how the question is been answered, the data analysis can be categorized into: Destriptive, Exploratory, etc.
 
-Assignment
-
-I
+Assignment I
 
 The Hypothesis were formulated and submitted through the google links for each situation
 
-II
+Assignment II
 
 General idea:
 
