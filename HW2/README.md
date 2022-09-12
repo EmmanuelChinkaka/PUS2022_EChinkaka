@@ -1,1 +1,1 @@
-#Assigned Reading
+Assigned Reading 
